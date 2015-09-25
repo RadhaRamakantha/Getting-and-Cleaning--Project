@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -868,3 +869,7 @@ write.csv(ty_dataset, "fn_ty_dataset.csv")
 write.table(ty_dataset, "fn_ty_dataset.txt")
 >>>>>>> origin/master
 
+=======
+# Getting-and-Cleaning--Project
+G&amp;D Project work
+>>>>>>> parent of 88fa085... WORK
