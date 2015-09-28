@@ -23,6 +23,9 @@ y_test <- read.table("C:/Users/Radha/Desktop/UCI HAR Dataset/test/y_test.txt")
 y_train <- read.table("C:/Users/Radha/Desktop/UCI HAR Dataset/train/y_train.txt")
 y_merged  <- rbind(y_train, y_test)
 }
+subject_dataset <- RR_subject_dataset()
+X_dataset <- RR_X_dataset()
+y_dataset <- RR_y_dataset()
 
 
 
